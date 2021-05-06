@@ -4,27 +4,27 @@
       "name": "Georgia Smith",
       "country": "UK",
       "description": "Best medical scientist",
-      "image":"https://ampa.lifo.gr/wp-content/uploads/2021/05/touni-758x455.jpg"
+      "image": "https://ampa.lifo.gr/wp-content/uploads/2021/05/touni-758x455.jpg"
     },
 {
       "id": 2,
       "name": "Tom Jerry",
       "country": "USA",
       "description": "Best Athlete",
-      "image":"https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-05/mikros-kleftis.jpg?itok=evXfMUkN"
+      "image": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-05/mikros-kleftis.jpg?itok=evXfMUkN"
     },
 {
       "id": 3,
       "name": "Μαρία Σίνα",
       "country": "Greece",
       "description": "Best Visual Artist",
-      "image":"https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-05/mikros-kleftis.jpg?itok=evXfMUkN"
+      "image": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-05/mikros-kleftis.jpg?itok=evXfMUkN"
     },
 {
       "id": 4,
       "name": "Mario Panini",
       "country": "Italy",
       "description": "Best Chef",
-      "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-04/philip-roth.jpg?itok=NQ92c5Th"
+      "image": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-04/philip-roth.jpg?itok=NQ92c5Th"
     }
 ]
