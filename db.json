@@ -1,6 +1,6 @@
 
 {
-  "pom": 
+  "pom": [
     {
       "id": 1,
       "name": "Georgia Smith",
@@ -28,5 +28,5 @@
       "country": "Italy",
       "description": "Best Chef",
       "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-04/philip-roth.jpg?itok=NQ92c5Th"
-    }
+    }]
 }
