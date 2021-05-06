@@ -1,4 +1,5 @@
-[
+{ 
+    "pom": [
     {
       "id": 1,
       "name": "Georgia Smith",
@@ -27,4 +28,5 @@
       "description": "Best Chef",
       "image": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-04/philip-roth.jpg?itok=NQ92c5Th"
     }
-]
+ ]
+}
