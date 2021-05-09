@@ -19,7 +19,7 @@
       "name": "Μαρία Σίνα",
       "country": "Greece",
       "description": "Best Visual Artist",
-      "image": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-05/mikros-kleftis.jpg?itok=evXfMUkN"
+      "image": "https://www.lifo.gr/sites/default/files/inline-images/expe_0.jpg"
     },
 {
       "id": 4,
@@ -27,6 +27,34 @@
       "country": "Italy",
       "description": "Best Chef",
       "image": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-05-04/philip-roth.jpg?itok=NQ92c5Th"
-    }
+    },
+{
+      "id": 5,
+      "name": "Rodrigo Fernandez",
+      "country": "Portugal",
+      "description": "Best Economist",
+      "image": "https://www.lifo.gr/sites/default/files/styles/lifo_headers_2_columns_large/public/articles/2021-05-05/KIWI.jpg?itok=9ie42WrX"
+    },
+{
+      "id": 6,
+      "name": "Maria Perez",
+      "country": "Chile",
+      "description": "Best Mathematician",
+      "image": "https://www.lifo.gr/sites/default/files/inline-images/penny-oxentra_0.jpg"
+    },        
+{
+      "id": 7,
+      "name": "Hai Chin",
+      "country": "Vietnam",
+      "description": "Best Anthropologist",
+      "image": "http://img.cdn2.vietnamnet.vn/Images/english/2016/03/09/16/20160309160556-1.jpg"
+    },   
+{
+      "id": 8,
+      "name": "Apio Moro,
+      "country": "Uganda",
+      "description": "Best Mathematician",
+      "image": "https://matookerepublic.com/wp-content/uploads/2019/12/Screenshot-1039.png"
+    }           
  ]
 }
